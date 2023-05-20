@@ -4,8 +4,8 @@ site_author: "Amrit Adhikari"
 site_url: "thestackschool.github.io/dev-notes/"
 
 # Repository
-repo_name: "thestackschool/notes"
-repo_url: "https://github.com/thestackschool/notes"
+repo_name: "thestackschool/dev-notes"
+repo_url: "https://github.com/thestackschool/dev-notes"
 
 # Copyright
 copyright: "Copyright &copy; 2020 - 2023 Amrit Adhikari"
