@@ -1,7 +1,7 @@
 site_name: "The Stack School"
 site_description: "My Quick Reference Docs"
 site_author: "Amrit Adhikari"
-site_url: ""
+site_url: "https://thestackschool.github.io/dev-notes/"
 
 # Repository
 repo_name: "thestackschool/dev-notes"
