@@ -39,9 +39,7 @@ nav:
       - Docker: devops/docker.md
       - Ansible: devops/ansible.md
       - AWS: devops/aws.md
-      - Linux File System: devops/linux2.md
-      - File Creation: devops/file_creation.md
-      - Working with Directory: devops/directory.md
+      - Linux More: devops/linux2.md
       - grep: devops/grep.md
       - Text Editor: devops/text_editor.md
 
