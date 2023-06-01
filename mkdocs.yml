@@ -39,9 +39,11 @@ nav:
       - Docker: devops/docker.md
       - Ansible: devops/ansible.md
       - AWS: devops/aws.md
-      - Linux More: devops/linux2.md
-      - grep: devops/grep.md
-      - Text Editor: devops/text_editor.md
+      - Linuxx:
+        - Linux More: devops/Linuxx/linux2.md
+        - Find Locate Search: devops/Linuxx/grep.md
+        - Text Editor: devops/Linuxx/text_editor.md
+      
 
   - Misc:
       - CleanArchitecture: misc/clean-architecture.md

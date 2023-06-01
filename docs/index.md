@@ -2,7 +2,9 @@
 
 Welcome to My Tech Notes
 
-# My favorite development tools
+
+
+`visit website:` [Quick Reference](thestackschool.github.io/dev-notes/)
 
 ## CommandLine Tools
 
