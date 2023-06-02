@@ -5,6 +5,8 @@ Welcome to My Tech Notes
 `visit website:` [Quick Reference](/dev-notes/)
 `https://thestackschool.github.io/dev-notes/`
 
+`Github:` [Click Here](https://github.com/thestackschool/dev-notes)
+
 ## CommandLine Tools
 
 - [Babun](http://babun.github.io/) - a Windows shell you will love!.
