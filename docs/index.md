@@ -4,7 +4,8 @@ Welcome to My Tech Notes
 
 
 
-`visit website:` [Quick Reference](thestackschool.github.io/dev-notes/)
+`visit website:` [Quick Reference](/)
+`thestackschool.github.io/dev-notes/`
 
 ## CommandLine Tools
 
