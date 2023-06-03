@@ -36,14 +36,16 @@ nav:
   - DevOps:
       - Tools: devops/devops.md
       - Linux: devops/linux.md
-      - Docker: devops/docker.md
       - Ansible: devops/ansible.md
       - AWS: devops/aws.md
       - Linuxx:
         - Linux More: devops/Linuxx/linux2.md
         - Find Locate Search: devops/Linuxx/grep.md
         - Text Editor: devops/Linuxx/text_editor.md
-      
+      - Docker:
+        - Docker Basics: devops/Docker/docker_basics.md
+        - Docker Basics 2: devops/Docker/docker.md
+        - Spring Boot Docker : devops/Docker/springbootdocker.md
 
   - Misc:
       - CleanArchitecture: misc/clean-architecture.md
