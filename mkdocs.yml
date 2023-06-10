@@ -46,7 +46,7 @@ nav:
         - Docker Basics: devops/Docker/docker_basics.md
         - Docker Basics 2: devops/Docker/docker.md
         - Spring Boot Docker : devops/Docker/springbootdocker.md
-
+        - Docker Compose : devops/Docker/docker_compose.md
   - Misc:
       - CleanArchitecture: misc/clean-architecture.md
 
