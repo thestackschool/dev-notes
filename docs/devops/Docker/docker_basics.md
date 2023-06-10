@@ -250,8 +250,13 @@ We can't override ENTRYPOINT instructions.
 ## Detached Mode
 
 `$ docker run -d -p 8080:8080 sb-app`
-## Runnig Processes
+
+## List Runnig Processes/ containers
 `$docker ps`
+
+## List all the Processes/ containers (running /stopped)
+`$docker ps -a`
+
 ## Container Logs
 `$docker logs <container-id>`
 
